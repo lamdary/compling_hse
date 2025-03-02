@@ -1,1 +1,0 @@
-# compling_hse
